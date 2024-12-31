@@ -1,1 +1,0 @@
-# Go-Timed-quiz-cli-
